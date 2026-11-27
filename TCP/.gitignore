@@ -1,0 +1,5 @@
+# file generati dalla compilazione di Eclipse
+Debug/
+Release/
+*.o
+*.exe
